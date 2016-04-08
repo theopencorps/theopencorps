@@ -7,7 +7,7 @@
 #
 # TODO: Lock to specific versions
 
-cloudstorage
+GoogleAppEngineCloudStorageClient
 pyasn1
 rsa
 pusher
